@@ -1,0 +1,13 @@
+Bachelors in Computer Science & Engineering
+Bangladesh University of Engineering And Technology
+Software Engineering
+Compilers, Algorithms, Data Structures, Graph Theory
+Operating System Design, Shell Programming
+Discreet Mathematics, Calculus, Numerical Analysis, Statistics
+System Analysis & Design
+Database Design & Modeling, Design Patterns
+
+PhD in Computer Science (on-going)
+University of California, Santa Cruz
+Machine Learning, Deep Learning
+Data Management, Data Mining
